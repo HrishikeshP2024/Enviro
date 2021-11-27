@@ -48,6 +48,12 @@ body {
     height: 900px;
     width:900px;
     }
+  .img3
+    {
+    border-radius: 20px;
+    height: 900px;
+    width:1815px;
+    }
 
   .row::after {
     content: "";

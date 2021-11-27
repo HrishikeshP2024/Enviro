@@ -1,5 +1,5 @@
 body {
-    background-image: linear-gradient(0,#ECE0D0, #688680);
+    background-image: linear-gradient(#ECE0D0, #688680);
     padding:10px;
 }
 .header {
@@ -56,7 +56,7 @@ body {
 }
 .article {
   color:black;
-  font-family:comic 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family:"Comic Sans MS";
   font-size: 18px;
 }
 .mnctr {
@@ -69,14 +69,14 @@ body {
 .image{
   border-radius: 10px;
   float: right;
-  width: 500px;
-  height: 300px;
+  width: 600px;
+  height: 400px;
   padding:10px;
 }
 .image1{
   border-radius: 10px;
   float: left;
-  width: 500px;
-  height: 300px;
+  width: 600px;
+  height: 400px;
   padding: 10px;
 }
